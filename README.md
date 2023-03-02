@@ -2,7 +2,7 @@ Work in progress.
 
 ## Usage 
 
-Install with `npm install nodejs-websocket-parser/dist/WebsocketParser`
+Install with `npm install nodejs-websocket-parser`
 
 Import package
 ```typescript
