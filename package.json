@@ -1,10 +1,10 @@
 {
-    "name": "websocket-parser",
+    "name": "nodejs-websocket-parser",
     "repository": {
         "type" : "git",
         "url" : "https://github.com/uuuulopta/websocket-parser.git"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
 
     "license": "MIT",
     "main": "dist/WebsocketParser.js",
